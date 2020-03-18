@@ -1,4 +1,4 @@
-# Java - Servlet
+# Spring - Servlet
 인프런 - 백기선님의 Spring Web MVC 강의를 보고 학습하는 프로젝트  
 
 ## 학습 내용
